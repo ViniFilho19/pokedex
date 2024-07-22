@@ -6,8 +6,7 @@ module.exports = {
 			sass: {
 				additionalData: `
 					@import "@/styles/functions";
-					@import "@/styles/colors";
-					@import "@/styles/variables";
+					@import "@/styles/colors";				
 				`,
 			},
 		},
